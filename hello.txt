@@ -1,0 +1,4 @@
+<h1 style='color:orange'>Hello Golang!</h1>
+<h2>how are you</h2>
+<img id='i1' src='https://pbs.twimg.com/media/G9BOnPOWUAA2WP3.jpg'>
+<button id='b1'>点我</button>
