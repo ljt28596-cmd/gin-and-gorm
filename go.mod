@@ -15,7 +15,7 @@ require (
 	github.com/go-playground/locales v0.14.2 // indirect
 	github.com/go-playground/universal-translator v0.18.2 // indirect
 	github.com/go-playground/validator/v10 v10.30.5 // indirect
-	github.com/go-sql-driver/mysql v1.10.1 // indirect
+	github.com/go-sql-driver/mysql v1.10.1 // direct
 	github.com/goccy/go-json v0.11.2 // indirect
 	github.com/goccy/go-yaml v1.19.2 // indirect
 	github.com/jinzhu/inflection v1.0.0 // indirect
@@ -39,7 +39,6 @@ require (
 	golang.org/x/sys v0.49.0 // indirect
 	golang.org/x/text v0.43.0 // indirect
 	google.golang.org/protobuf v1.36.12 // indirect
-	gorm.io/driver/mysql v1.6.0 // indirect
-	gorm.io/driver/sqlite v1.6.0 // indirect
-	gorm.io/gorm v1.31.2 // indirect
+	gorm.io/driver/mysql v1.6.0 // direct
+	gorm.io/gorm v1.31.2 // direct
 )
